@@ -2,7 +2,7 @@
 - 👀 I’m interested in design and development.
 - 🌱 I’m currently learning web technologies.
 - 💞️ I’m looking to collaborate on open source project after getting confortable with JavaScript.
-- 📫 You can reach my on my mail for now: rabiumubarak92@gmail.com
+- 📫 You can reach me through my mail for now: rabiumubarak92@gmail.com
 
 <!---
 mubzie/mubzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
